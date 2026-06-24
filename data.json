@@ -1,5 +1,24 @@
 {
   "tasks": [
-    
+    {
+      "id": 1,
+      "task": "Buy groceries",
+      "completed": false
+    },
+    {
+      "id": 2,
+      "task": "Play games",
+      "completed": true
+    },
+    {
+      "id": 3,
+      "task": "Watch Netflix",
+      "completed": true
+    },
+    {
+      "id": 5,
+      "task": "Water plants",
+      "completed": false
+    }
   ]
 }
